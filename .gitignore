@@ -8,10 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
-
+venv
 .idea
 
 .vscode
 
 **/*.csv
 **/*.pdf
+
+**/saved_model
+**/bert_imdb_checkpoints
